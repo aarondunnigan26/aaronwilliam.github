@@ -103,7 +103,7 @@ __Tools Used:__
 
 12/16: The file failed because the nosel on the printer go jammed. We then print the file again. I finished makeding my CNC file on aspire and then I milled my topography map 
 
-![PCB Image](/assets/images/IMG_1569.HEIC)
+![PCB Image](/assets/images/IMG_1569.jpg)
 
 [CNC File](/assets/images/DunniganA.cnc)
 
