@@ -23,7 +23,7 @@ https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smart
 
 __Design Specifications:__
 
-![PCB Image](/assets/images/Fablab%20Rehab%20Plan.pdf)
+![PCB Image](assets/images/Fablab%20Rehab%20Plan.pdf)
 
 # Instructions: 
 
