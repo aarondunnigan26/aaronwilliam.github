@@ -34,7 +34,9 @@ __Bill of Matterials__
 __Tools Used:__
 
 -3D printers with PLA and supports enabled
+
 -soldering irons at 750 degrees
+
 -CNC machines
 
 
