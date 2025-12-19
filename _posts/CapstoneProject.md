@@ -23,13 +23,13 @@ https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smart
 
 __Design Specifications:__
 
-![PCB Image](assets/images/Fablab%20Rehab%20Plan.pdf)
+[PDF](assets/images/Fablab%20Rehab%20Plan.pdf)
 
 # Instructions: 
 
 __Bill of Matterials__
 
-![PCB Image](/assets/images/Dunnigan%20and%20Lokas-Bill%20of%20Materials%20-%20Sheet1.pdf)
+[PDF](/assets/images/Dunnigan%20and%20Lokas-Bill%20of%20Materials%20-%20Sheet1.pdf)
 
 __Tools Used:__
 
@@ -65,7 +65,7 @@ __Tools Used:__
 
 10/27-31: We were introduced to a CAM soffware called: MakeraCam. We learned how to take PCB disign files and mill them out on our PCB Machines. We continued to learn how to use the software while also writing a workflow, which is shown in the PCB documention post. 
 
-![PCB Image](/assets/images/DunniganAresistiorrealgcode.nc)
+[G-Code](/assets/images/DunniganAresistiorrealgcode.nc)
 
 11/3: I worked with daniel to disuss what parts of the project needed to be edited. 
 
@@ -75,11 +75,11 @@ __Tools Used:__
 
 11/12: I found a cup design that would work and we then printed it and tested it with a paper cup filled with water. The test was successfull so we had our starting design that we could work with
 
-![PCB Image](/assets/images/IMG_1568.HEIC)
+![PCB Image](/assets/images/IMG_1568.jpg)
 
 11/13-14: In class we worked on locating our mountain ranges for our topography maps and then made CRV files for them on the Bamboo studio software. 
 
-![PCB Image](/assets/images/DunniganA.crv3d)
+[crv3d File](/assets/images/DunniganA.crv3d)
 
 11/17-11/19: absent because ill
 
@@ -105,7 +105,7 @@ __Tools Used:__
 
 ![PCB Image](/assets/images/IMG_1569.HEIC)
 
-![PCB Image](/assets/images/DunniganA.cnc)
+[CNC File](/assets/images/DunniganA.cnc)
 
 ![PCB Image](/assets/images/IMG_1570.HEIC)
 
@@ -123,6 +123,6 @@ __Tools Used:__
 
 # Challanges: 
 
-The main challenges that I have faced are with 3D printing my prototype. Oringnally my print failed becuase the nosel on the printer was clogged. When I reprinted it on a different printer, the bed was not placed on correctly so it kept hitting against the display. The print was stopped by a teacher and thrown out before I was able to see thought. 
+The main challenges that I have faced are with 3D printing my prototype. Oringnally my print failed becuase the nosel on the printer was clogged. When I reprinted it on a different printer, the bed was not placed on correctly so it kept hitting against the display. The print was stopped by a teacher and thrown out before I was able to see thought. I face  large chellenge with my GitHub site because when I would commit nothing woudl show on the website. I tried trouble shooting a lot with Collin Kanofsky, but I eventually had to create a new repository, copy and paste everything into my new repo, unpublish my old repo, and now everything is working properly.
 
 ![PCB Image](/assets/images/IMG_1569.HEIC)
