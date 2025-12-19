@@ -21,7 +21,7 @@ Days 2-4: We learned how to use the new CNC machines to mill our PCB boards. Thi
 
 1. Open up Makera CAM and start a new 3-axis project.
 
-![PCB Image](assets/images/IMG_1568.jpg)
+![PCB Image](/assets/images/Step1.png)
 
 2. Then we need to import the PCB files. These files are the .grb & .drl files.
 
